@@ -1,0 +1,10 @@
+bjoern==2.1.0
+Cython==0.27.3
+falcon==1.4.1
+fasttext==0.8.22
+numpy==1.14.1
+pybind11==2.2.2
+python-mimeparse==1.6.0
+six==1.11.0
+ujson==1.35
+uWSGI==2.0.17
